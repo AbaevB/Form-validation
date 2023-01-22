@@ -1,5 +1,5 @@
-# site-default
+# Form-validation
 
-> Default Website Project Template
+> Пример формы с валидатором полей ввода.
 
 ## Project description
